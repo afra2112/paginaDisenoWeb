@@ -45,4 +45,4 @@ Aunque no es un proyecto ultra técnico, se aplicaron buenas prácticas para que
 - `estilos.css` → Hoja de estilos personalizada
 - `assets/` → Imágenes usadas en el sitio
 
-<img width="1846" height="446" alt="image" src="https://github.com/user-attachments/assets/d2c063b9-ff5c-4b97-972a-354fa93a1aac" />
+<img width="1850" height="466" alt="image" src="https://github.com/user-attachments/assets/4cb7cecd-4deb-4309-b13b-7a999527d8a0" />
